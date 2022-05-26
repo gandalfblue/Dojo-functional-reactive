@@ -8,7 +8,7 @@ import java.util.Scanner;
 import java.util.logging.Logger;
 
 /**
- * Exercise class
+ * Exercise 2 class
  *
  * @author dannielf - gandalfblue - duvis07 - jeyson-pereira
  * @version 0.0.1
